@@ -1,0 +1,73 @@
+/* Register.css */
+
+.register-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: linear-gradient(to right, #54c258, #2c3e50); /* Use a gradient for a more attractive background */
+}
+
+.register-box {
+  width: 500px; /* Increase the width */
+  padding: 40px;
+  margin-top: 50px; /* Adjust the margin-top for more space */
+  background-color: #fff;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  border-radius: 12px;
+}
+
+.register-form {
+  display: flex;
+  flex-direction: column;
+}
+
+.input-group {
+  margin-bottom: 20px;
+  display: flex;
+  flex-direction: column;
+}
+
+label {
+  margin-bottom: 10px;
+  color: #333;
+  flex: 1;
+}
+
+input {
+  padding: 15px;
+  font-size: 16px;
+  border: 2px solid #3498db;
+  border-radius: 6px;
+  box-sizing: border-box;
+  margin-top: 5px;
+}
+
+button {
+  padding: 15px;
+  background-color: #e74c3c;
+  color: #fff;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  font-size: 18px;
+  transition: background-color 0.3s;
+}
+
+button:hover {
+  background-color: #c0392b;
+}
+
+/* Add some spacing between the Register box and the Login link */
+p {
+  margin-top: 20px;
+}
+
+/* Style the Login link */
+p a {
+  color: #3498db;
+  text-decoration: none;
+}
+
+p a:hover {
+  text-decoration: underline;
+}

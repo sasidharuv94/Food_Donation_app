@@ -1,0 +1,136 @@
+{
+  "donar": [
+    {
+      "id": "612e",
+      "firstname": "Sasidhar",
+      "lastname": "Udatha",
+      "userid": "Sasi",
+      "email": "sasidharv34@gmail.com",
+      "password": "$2a$05$UgiVi733ypCEa.Cvo6XmvupCI2gMjATbUMPIz8ViDD8u4ZF7Gbe4u"
+    },
+    {
+      "id": "2d51",
+      "firstname": "Vishnu",
+      "lastname": "Talla",
+      "userid": "Vishnu",
+      "email": "vishnu@gmail.com",
+      "password": "$2a$05$mKr1CCj7ZF4txp6BQukUNuUrKQW1KPcVTwDW27zTAhw0W4KUxK2UC"
+    },
+    {
+      "id": "7b7c",
+      "firstname": "Jayanth",
+      "lastname": "Vallabhu",
+      "userid": "Jayanth",
+      "email": "jayanth@gmail.com",
+      "password": "$2a$05$xmcASMZEv441SVZ6PY0gNO.NqSAfRRO4tLsyHM3waceD90O.0Q6/6"
+    },
+    {
+      "id": "7ab2",
+      "firstname": "V",
+      "lastname": "J",
+      "userid": "VJ",
+      "email": "vj@gmail.com",
+      "password": "$2a$05$PKazRR5k860OsdWL/wCkEutNdG9CJyxUh6ZuCFHYKL2nrHFHS6dOe"
+    },
+    {
+      "id": "1b76",
+      "firstname": "Sasidhar",
+      "lastname": "Talla",
+      "userid": "sasi",
+      "email": "sasidharv34@gmail.com",
+      "password": "$2a$05$dtKQs/FrDOh3CCxQdfUmAebL2WQ5YUFMtXqPoQrAaVy8.pdu2MexO"
+    },
+    {
+      "id": "7bc9",
+      "firstname": "vishva",
+      "lastname": "teja",
+      "userid": "Vishva",
+      "email": "vishva@gmail.com",
+      "password": "$2a$05$VguT6wAV2xxw5mTOjNiE7OzHk1f.GTJwFN1d0.JMgL.nxcEl7Tu4m"
+    }
+  ],
+  "ngo": [
+    {
+      "id": "065f",
+      "firstname": "Sasidhar",
+      "lastname": "Udatha",
+      "userid": "Sasi",
+      "email": "sasidharv34@gmail.com",
+      "password": "$2a$05$wO0o1jETd6Yawlb8bWwWdOzSXJ29qzJgSEdKrIq3G7L1x93efOVJ2"
+    },
+    {
+      "id": "a4ab",
+      "firstname": "V",
+      "lastname": "J",
+      "userid": "VJ",
+      "email": "vj@gmail.com",
+      "password": "$2a$05$Q2PJxhwsFIZpwPdja8nWbOijPtyRZqnNGSpg/NQharVLM9Xsnp6f."
+    },
+    {
+      "id": "5291",
+      "firstname": "Sasidhar",
+      "lastname": "Vallabhu",
+      "userid": "Vishnu",
+      "email": "ramachanderbanoth@gmail.com",
+      "password": "$2a$05$LJ9WZqZ4s/tI/9cS4pak4OoUkNqu4mMG40h/c9Ajehpiult7ZKqQC"
+    }
+  ],
+  "food": [
+    {
+      "id": "69a8",
+      "typeoffood": "veg",
+      "amount": "5",
+      "restaurantname": "kings",
+      "restaurantmobileno": "8121785867",
+      "restaurantaddress": "kukatpally"
+    },
+    {
+      "id": "c7ec",
+      "typeoffood": "non-veg",
+      "amount": "3",
+      "restaurantname": "kaveri",
+      "restaurantmobileno": "7612345691",
+      "restaurantaddress": "lb nagar"
+    },
+    {
+      "id": "01b4",
+      "typeoffood": "veg",
+      "amount": "6",
+      "restaurantname": "kakatiya",
+      "restaurantmobileno": "7612345691",
+      "restaurantaddress": "ameerpet"
+    },
+    {
+      "id": "3999",
+      "typeoffood": "non-veg",
+      "amount": "2",
+      "restaurantname": "Kritunga",
+      "restaurantmobileno": "9967865431",
+      "restaurantaddress": "Pragathi Nagar "
+    },
+    {
+      "id": "0f63",
+      "typeoffood": "veg",
+      "amount": "5",
+      "restaurantname": "swagath",
+      "restaurantmobileno": "7612345691",
+      "restaurantaddress": "jntu"
+    },
+    {
+      "id": "dbc8",
+      "typeoffood": "veg",
+      "amount": "6",
+      "restaurantname": "hello",
+      "restaurantmobileno": "9999999999",
+      "restaurantaddress": "jntu"
+    },
+    {
+      "id": "dbd9",
+      "typeoffood": "veg",
+      "amount": "5",
+      "restaurantname": "xyz",
+      "restaurantmobileno": "9999998888",
+      "restaurantaddress": "ameerpet"
+    }
+  ]
+}
